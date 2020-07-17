@@ -15,7 +15,7 @@
     "redux-logger": "^2.7.0",
     "redux-persist": "^4.0.0-alpha7",
     "redux-persist-migrate": "^5.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "redux-action-buffer": "^1.0.1"
   },
   "devDependencies": {
